@@ -1,0 +1,1 @@
+ref:http://wiki.t-firefly.com/zh_CN/Firefly-RK3128/U-boot_introduction.html
